@@ -1,0 +1,23 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "Excel on JavaScript",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wincchesster/EXCEL_JS.git"
+  },
+  "keywords": [
+    "js",
+    "excel"
+  ],
+  "author": "Alex Marker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wincchesster/EXCEL_JS/issues"
+  },
+  "homepage": "https://github.com/wincchesster/EXCEL_JS#readme"
+}
